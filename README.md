@@ -25,10 +25,10 @@ public class MainActivity extends AppCompatActivity implements DeletionSwipeHelp
 Then implement the onSwiped abstract methods
 
 ### Thirdly 
-Note this import import android.support.v7.widget.helper.ItemTouchHelper;
+Note this import `import android.support.v7.widget.helper.ItemTouchHelper;`
 
 ### Fourth
-Note these lines of programming in the `onCreate` method to initiate the |DeletionSwipeHelper` class
+Note these lines of programming in the `onCreate` method to initiate the `DeletionSwipeHelper` class
 
 ```gradle
 ItemTouchHelper.Callback callback = new DeletionSwipeHelper(0, ItemTouchHelper.START, this, this);
