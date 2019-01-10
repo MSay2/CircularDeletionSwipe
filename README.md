@@ -2,6 +2,9 @@
 
 <img src="screenshots/screen_01.png" width="300">
 
+> this project is also on my site
+> [GLITCH-inc](https://glitch-inc.000webhostapp.com/projects/circular_deletion_swipe.html)
+
 ### Description
 This project implements one of the most beautiful animations of the class `RecyclerView`, the class `ItemTouchHelper`.
 
