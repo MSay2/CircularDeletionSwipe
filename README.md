@@ -2,9 +2,6 @@
 
 <img src="screenshots/screen_01.png" width="300">
 
-> this project is also on my site
-> [GLITCH-inc](https://glitch-inc.000webhostapp.com/projects/circular_deletion_swipe.html)
-
 ### Description
 This project implements one of the most beautiful animations of the class `RecyclerView`, the class `ItemTouchHelper`.
 
@@ -43,6 +40,8 @@ itemTouchHelper.attachToRecyclerView(recycler);
 * Look at an example of use [MainActivity.java](https://github.com/MSay2/CircularDeletionSwipe/blob/master/app/src/main/java/com/msay2/circular_deletion_swipe/activities/MainActivity.java)
 * Download the application for look the finaly result [CircularDeletionSwipe.apk](https://raw.githubusercontent.com/MSay2/CircularDeletionSwipe/master/sample%20apk/CircularDeletionSwipe.apk)
 
+# GLITCH-inc
+* This project is also on my site [GLITCH-inc](https://glitch-inc.000webhostapp.com/projects/circular_deletion_swipe.html)
 
 # Clone Git Repository
 Please refresh build
